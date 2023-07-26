@@ -14,5 +14,5 @@ sm_cvar szm_special_zombie_blacklist "none"
 ```
 ---
 <p align="center">
-  <img src="https://github.com/SwatDoge/L4D2SZM/assets/39221207/2b538ad4-f21c-461b-84c3-d6c600bd4a46)" alt="Console output with messages about preventing special zombies from spawning."/>
+  <img src="https://cdn.discordapp.com/attachments/691844144057942056/1133888377721208952/image.png" alt="Console output with messages about preventing special zombies from spawning."/>
 </p>
